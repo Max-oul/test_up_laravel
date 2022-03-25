@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>Laravel</title>
+        <link rel="stylesheet" href="{{asset('css\app.css')}}">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -21,6 +22,11 @@
         </style>
     </head>
     <body class="antialiased">
+    
+        <div>
+            ito hoaa
+    
+        </div>
         <h1>Bonjour Hasina</h1>
         <h3>Bonjour Liantsoa</h3>
         <h2>Bonjour Sitraka</h2>
