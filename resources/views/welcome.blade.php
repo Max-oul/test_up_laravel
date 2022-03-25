@@ -26,6 +26,5 @@
         <h2>Bonjour Sitraka</h2>
         <h1>D aona eeee</h1>
         <h6>COUCOU </h6>
-
     </body>
 </html>
